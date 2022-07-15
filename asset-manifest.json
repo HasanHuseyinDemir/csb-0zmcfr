@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://hasanhuseyindemir.github.io/csb-0zmcfr/static/css/main.c1b8a438.chunk.css",
+    "main.js": "https://hasanhuseyindemir.github.io/csb-0zmcfr/static/js/main.d67d87cd.chunk.js",
+    "main.js.map": "https://hasanhuseyindemir.github.io/csb-0zmcfr/static/js/main.d67d87cd.chunk.js.map",
+    "runtime-main.js": "https://hasanhuseyindemir.github.io/csb-0zmcfr/static/js/runtime-main.20d1fb62.js",
+    "runtime-main.js.map": "https://hasanhuseyindemir.github.io/csb-0zmcfr/static/js/runtime-main.20d1fb62.js.map",
+    "static/js/2.ad07b986.chunk.js": "https://hasanhuseyindemir.github.io/csb-0zmcfr/static/js/2.ad07b986.chunk.js",
+    "static/js/2.ad07b986.chunk.js.map": "https://hasanhuseyindemir.github.io/csb-0zmcfr/static/js/2.ad07b986.chunk.js.map",
+    "index.html": "https://hasanhuseyindemir.github.io/csb-0zmcfr/index.html",
+    "static/css/main.c1b8a438.chunk.css.map": "https://hasanhuseyindemir.github.io/csb-0zmcfr/static/css/main.c1b8a438.chunk.css.map",
+    "static/js/2.ad07b986.chunk.js.LICENSE.txt": "https://hasanhuseyindemir.github.io/csb-0zmcfr/static/js/2.ad07b986.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20d1fb62.js",
+    "static/js/2.ad07b986.chunk.js",
+    "static/css/main.c1b8a438.chunk.css",
+    "static/js/main.d67d87cd.chunk.js"
+  ]
+}
